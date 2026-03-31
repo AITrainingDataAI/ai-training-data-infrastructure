@@ -1,5 +1,5 @@
 # AI Training Data API Architecture
-
+> This document defines the core API infrastructure powering AITrainingData.ai — designed for secure, scalable, enterprise-grade data access.
 ## 🎯 Purpose
 Provide secure, scalable, monetized access to AI training datasets and data systems.
 
