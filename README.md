@@ -27,6 +27,16 @@ They are **full-stack data systems**:
 
 This repository focuses on the **infrastructure layer** that makes all of this scalable.
 
+## 🧭 Architecture Overview
+<br/>
+
+<img src="./ai-training-data-architecture-diagram.png" width="100%" />
+
+<br/>
+
+> **Figure 1 — AI Training Data Infrastructure Architecture**  
+> End-to-end system covering data pipelines, evaluation systems, access control, and monetization layers.
+
 ---
 
 ## ⚡ Core Infrastructure Layers
